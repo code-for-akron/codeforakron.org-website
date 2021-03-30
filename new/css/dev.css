@@ -1,0 +1,9 @@
+body{
+    background-image: url("../images/bg.png");
+    background-repeat:no-repeat;
+    background-position: top center;
+}
+
+.dev-border{
+    border: 2px black solid;
+}
